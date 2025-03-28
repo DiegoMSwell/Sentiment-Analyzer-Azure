@@ -4,7 +4,7 @@ Este projeto demonstra o uso da IA da Azure para análise de sentimentos em fras
 
 ---
 
-## 📥 **Frases Analisadas**
+## **Frases Analisadas**
 1. **"O atendimento foi excelente, os funcionários foram muito atenciosos e prestativos. Com certeza voltarei!"**  
 2. **"O produto chegou quebrado e o suporte ao cliente não resolveu meu problema. Péssima experiência!"**  
 3. **"O filme tinha uma boa fotografia, mas a história não me prendeu tanto quanto eu esperava."**  
@@ -12,7 +12,7 @@ Este projeto demonstra o uso da IA da Azure para análise de sentimentos em fras
 
 ---
 
-## 🔍 **Processo de Análise**
+## **Processo de Análise**
 Utilizei o **Azure Language Studio** para realizar a análise de sentimentos. A IA retornou os seguintes resultados:
 
 **1º Sentença** <br> 
@@ -32,20 +32,20 @@ Utilizei o **Azure Language Studio** para realizar a análise de sentimentos. A 
 
 ---
 
-## 💡 **Insights**
-### ✅ **Sentimentos Mistos**
+## **Insights**
+### **Sentimentos Mistos**
 - A IA identificou com precisão sentimentos mistos na mesma frase.  
 ➡️ Exemplo: Na frase sobre o filme, o elogio à fotografia foi reconhecido, mas o peso maior da crítica sobre a história inclinou o resultado para negativo.
 
 ---
 
-### ⚖️ **Análises Neutras e Críticas Suaves**
+### **Análises Neutras e Críticas Suaves**
 - A IA foi capaz de interpretar críticas suaves sem classificá-las como totalmente negativas.  
 ➡️ Exemplo: A frase sobre organização foi considerada neutra, refletindo um tom de crítica construtiva.
 
 ---
 
-### 🚀 **Monitoramento de Satisfação**
+### **Monitoramento de Satisfação**
 - A IA identificou com precisão elogios e reclamações diretas.  
 ➡️ Exemplo: Feedback positivo sobre o atendimento foi classificado corretamente como 100% positivo.  
 
@@ -56,7 +56,7 @@ Utilizei o **Azure Language Studio** para realizar a análise de sentimentos. A 
 
 ---
 
-## 🎯 **Possibilidades de Uso**
+## **Possibilidades de Uso**
 - **Atendimento ao Cliente:** Identificação rápida de problemas e elogios.  
 - **Marketing e Produto:** Análise de tendências de opinião sobre produtos e serviços.  
 - **Experiência do Usuário:** Melhora contínua baseada em feedback direto.  
